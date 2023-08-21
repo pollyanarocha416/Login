@@ -55,7 +55,7 @@ ROOT_URLCONF = 'login_completo.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['C:/Users/Usuário/Desktop/Login-frontend-pronto/templates/'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
